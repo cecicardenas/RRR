@@ -1,0 +1,18 @@
+/* 
+    Document   : fonts
+    Created on : 22/07/2014, 09:49:18 AM
+    Author     : Cecilia
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+@font-face {
+  font-family: 'segoe ui,Arial,sans-serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lobster Two Bold'), local('LobsterTwo-Bold'), url(http://themes.googleusercontent.com/static/fonts/lobstertwo/v5/bmdxOflBqMqjEC0-kGsIiDqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
+}
